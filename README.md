@@ -129,53 +129,6 @@ Performed EDA and tried answering the following questions:
  
   - **Box Plot.**
      
-     
-## Analysis :--
-**Univariate Analysis:**
-  
-  - Agent no. 9 has made most no. of bookings.
-  
-  - Most demanded room type is A, but better adr generating rooms H, G and C. Hotels should increase the no. of room types A and H to maximise revenue.
-  
-  -  Most popular meal type is BB(Bed and Breakfast).
-  
-  - Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel.
-  
-  - Guests use different channels for making bookings out of which most preferred way is TA/TO.
-  
-  - July- August are the most busier and profitable months for both of hotels. 
-  
-  - Most of the guests came from european countries, with highest number of guests from Portugal.
-  
-  - Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
- 
- 
-**Bivariate Analysis :**
-*We tried to answer following questions*
-
-  - Overall adr of City hotel is slightly higher than Resort hotel and no. of bookings of City hotel is also higher than Resort hotel. Hence, City hotel is makes more revenue.
-  
-  - City hotel has slightly higher median lead time. Also median lead time is significantly higher for both hotels, this means customers generally plan their hotel   visits way early.
-  
-  - Almost 30 % of City Hotel bookings got canceled.
-  
-  - Both hotels have very small percentage that customer will repeat, but Resort hotel has slightly higher repeat % than City Hotel.
-  
-  - TA/TO is mostly used for planning Hotel visits well ahead of time. 
-  
-  - While booking via TA/TO one may have to wait a little longer to confirm booking of rooms.
-  
-  - GDS channel brings higher revenue generating deals for City hotel, in contrast to that most bookings come via TA/TO. City Hotel can work to increase outreach on GDS channels to get more higher revenue generating deals.
-  
-  - TA/TO has highest booking cancellation %. Therefore, a booking via TA/TO is 30% likely to get cancelled.
-  
-  - Longer lead time has no affect on cancellation of bookings.
-  
-  - Not getting same room as demanded is not the case of cancellation of rooms. A significant percentage of bookings are not cancelled even after getting different room as demanded.
-  
-  - Not getting same room do affects the adr, people who didn't got same room have paid a little lower adr. 
-  
-  - Arrivals in hotels increases at weekends and also the avg adr tends to go up as month ends. 
 
 
 ## Conclusion :--
