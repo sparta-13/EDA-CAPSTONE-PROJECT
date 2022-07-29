@@ -132,7 +132,6 @@ Performed EDA and tried answering the following questions:
      
 ## Analysis :--
 **Univariate Analysis:**
-*Performed univariate analysis and made following conclusions:*
   
   - Agent no. 9 has made most no. of bookings.
   
